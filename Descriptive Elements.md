@@ -394,4 +394,4 @@ _This summary description was created by Tierra Thomas in December 2019 to provi
 _Published materials have been separated from the collection._
 
 #### We use this statement to acknowledge when processors alter or remove original offensive titles/descriptions from finding aids:
-_In 2020, archivists removed the transcription of Bayard Wootten’s title and caption from the finding aid because they contain racial slurs._ 
+_Titles and descriptions provided on original enclosures, prints, and digitized materials from the collection come from original housing or related manuscript materials. Some of these descriptions contain offensive and racist language. In 2020, archivists removed transcriptions of these titles and captions from the finding aid._ 
